@@ -1,6 +1,6 @@
 # Lab: 08a - HTML/CSS Wireframe Exercise 
 
-## cookie-stand
+## wirefame-exercise. 
 
 ### Author: Amara Al Balkhi
 
